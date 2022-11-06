@@ -1,4 +1,4 @@
-A test project for a **SkillFactory** task: to write a chatServer for net chats.
+A test project for a **SkillFactory** task: to write a *ChatServer* for net chats.
 
 1. Server hast to allow severel users to connect simultaneously.
 2. The massage, a user sent with *Enter*, printed to all other users chat windows.
